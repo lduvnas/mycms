@@ -1,0 +1,14 @@
+img {
+  object-fit: cover;
+  width: 130px;
+  height: 130px;
+  margin-right: 300px;
+  border: 1px solid #ddd; /* Gray border */
+  padding: 5px; /* Some padding */
+}
+
+.figure-caption {
+  position: absolute;
+  top: 810px;
+  right: 550px;
+}
